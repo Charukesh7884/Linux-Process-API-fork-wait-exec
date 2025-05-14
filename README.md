@@ -87,7 +87,7 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
 ![](img/exec.png)
 # RESULT:
 The programs are executed successfully.

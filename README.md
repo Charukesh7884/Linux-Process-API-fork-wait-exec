@@ -42,7 +42,8 @@ int main() {
     }
 }
 ```
-##OUTPUT
+## OUTPUT
+
 ![](img/forkcheck.png)
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 ```
